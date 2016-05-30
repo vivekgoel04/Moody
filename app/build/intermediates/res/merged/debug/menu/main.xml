@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.moody.MainActivity" >
+
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="100"
+        android:title="Close"
+        app:showAsAction="always"/>
+
+</menu>
+<!-- From: file:/Users/vivekgoel/AndroidStudioProjects/Moody/app/src/main/res/menu/main.xml -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moody</string>
+    <string name="hello">Hello!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homestring">Hey its preety lonely, press the red button to track your mood</string>
+    <string name="title_activity_addmood_activity">Add Mood</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="desc">Add Mood</string>
+</resources>
